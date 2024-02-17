@@ -16,7 +16,7 @@ Hey there! 👋 I'm Aditi Waghmare, an experienced Oracle Database Administrator
 
 ## Get in Touch
 
-📫 Feel free to reach out to me at aditiextra14@gmail.com(mailto:aditiextra14@gmail.com) for any inquiries or collaboration opportunities.
+📫 Feel free to reach out to me at aditiextra14@gmail.com for any inquiries or collaboration opportunities.
 
 Let's connect and discuss how we can leverage Oracle technologies to achieve your business goals!
 
