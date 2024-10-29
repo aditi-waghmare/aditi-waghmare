@@ -1,6 +1,6 @@
 # About Me
 
-Hey there! 👋 I'm Aditi Waghmare, an experienced Oracle Database Administrator with over 3 years of hands-on experience in managing various Oracle technologies and systems. I specialize in Oracle databases, Oracle RAC systems, Oracle Exadata, Oracle Enterprise Manager (OEM 13c), Oracle Data Guard, and Linux/Unix environments. I also have a knack for real-time database performance tuning, ensuring optimal performance and efficiency.
+Hey there! 👋 I'm Aditi Waghmare, an experienced Oracle Database Administrator with over 4 years of hands-on experience in managing various Oracle technologies and systems. I specialize in Oracle databases, Oracle RAC systems, Oracle Exadata, Oracle Enterprise Manager (OEM 13c), Oracle Data Guard, and Linux/Unix environments. I also have a knack for real-time database performance tuning, ensuring optimal performance and efficiency.
 
 ## Skills & Expertise
 
